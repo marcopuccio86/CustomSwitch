@@ -9,10 +9,10 @@ After compile the control in release mode, in ..Bin/Release there will be a .dll
 
 <b>Insert the Switch control into the ToolBox in Visual Studio</b><br>
 1. Open Visual Studio's Toolbox,
-2. Right mouse button and click in "Choose items" (Scegli elementi in Italian Language)  ![alt text](https://www.marcopuccio.com/GitHubSwitchImgs/3.JPG)
-3. In the tab ".NET Framework Component", click in Open (Sfoglia in Italian Language)  ![alt text](https://www.marcopuccio.com/GitHubSwitchImgs/4.JPG)
-4. Go to Bin/Relese directory of SwitchControl and click in dll file ![alt text](https://www.marcopuccio.com/GitHubSwitchImgs/5.JPG)
-5. Click OK and the control is addedd in your ToolBox.
+2. Right mouse button and click in "Choose items" (Scegli elementi in Italian Language)  ![alt text](https://www.marcopuccio.com/GitHubSwitchImgs/3.JPG)<br><br>
+3. In the tab ".NET Framework Component", click in Open (Sfoglia in Italian Language)  ![alt text](https://www.marcopuccio.com/GitHubSwitchImgs/4.JPG)<br><br>
+4. Go to Bin/Relese directory of SwitchControl and click in dll file ![alt text](https://www.marcopuccio.com/GitHubSwitchImgs/5.JPG)<br><br>
+5. Click OK and the control is addedd in your ToolBox.<br>
 
 <b>Add Switch Control in Forms</b><br>
 For add the control in Windows Forms, you can drag and drop the control from ToolBox in Windows Forms
