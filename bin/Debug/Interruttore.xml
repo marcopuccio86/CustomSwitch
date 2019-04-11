@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Interruttore
+</name>
+</assembly>
+<members>
+<member name="T:MPInterruttore.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:MPInterruttore.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:MPInterruttore.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:MPInterruttore.Interruttore.State">
+ <summary>
+ Ottiene o imposta lo stato del controllo
+ </summary>
+</member>
+<member name="P:MPInterruttore.Interruttore.NoTextState">
+ <summary>
+ Visualizza o nasconde il testo dello stato del controllo
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

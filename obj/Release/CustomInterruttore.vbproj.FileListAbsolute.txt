@@ -1,0 +1,18 @@
+C:\Users\Marco\Desktop\CustomInterruttore\obj\Release\MPInterruttore.Resources.resources
+C:\Users\Marco\Desktop\CustomInterruttore\obj\Release\CustomInterruttore.vbproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\CustomInterruttore\bin\Release\Interruttore.dll
+C:\Users\Marco\Desktop\CustomInterruttore\bin\Release\Interruttore.pdb
+C:\Users\Marco\Desktop\CustomInterruttore\bin\Release\Interruttore.xml
+C:\Users\Marco\Desktop\CustomInterruttore\obj\Release\Interruttore.dll
+C:\Users\Marco\Desktop\CustomInterruttore\obj\Release\Interruttore.xml
+C:\Users\Marco\Desktop\CustomInterruttore\obj\Release\Interruttore.pdb
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\bin\Release\Interruttore.dll
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\bin\Release\Interruttore.pdb
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\bin\Release\Interruttore.xml
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\obj\Release\MPInterruttore.Resources.resources
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\obj\Release\CustomInterruttore.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\obj\Release\CustomInterruttore.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\obj\Release\Interruttore.dll
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\obj\Release\Interruttore.xml
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\obj\Release\Interruttore.pdb
+C:\Users\Marco\Desktop\CustomControl CustomInterruttore\obj\Release\CustomInterruttore.vbprojAssemblyReference.cache

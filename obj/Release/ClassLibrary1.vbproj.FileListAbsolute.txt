@@ -1,0 +1,8 @@
+C:\Users\Marco\Desktop\CustomLabel\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.vbproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\CustomLabel\ClassLibrary1\ClassLibrary1\bin\Release\Interruttore.dll
+C:\Users\Marco\Desktop\CustomLabel\ClassLibrary1\ClassLibrary1\bin\Release\Interruttore.pdb
+C:\Users\Marco\Desktop\CustomLabel\ClassLibrary1\ClassLibrary1\bin\Release\Interruttore.xml
+C:\Users\Marco\Desktop\CustomLabel\ClassLibrary1\ClassLibrary1\obj\Release\MPInterruttore.Resources.resources
+C:\Users\Marco\Desktop\CustomLabel\ClassLibrary1\ClassLibrary1\obj\Release\Interruttore.dll
+C:\Users\Marco\Desktop\CustomLabel\ClassLibrary1\ClassLibrary1\obj\Release\Interruttore.xml
+C:\Users\Marco\Desktop\CustomLabel\ClassLibrary1\ClassLibrary1\obj\Release\Interruttore.pdb
