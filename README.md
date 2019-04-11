@@ -27,7 +27,7 @@ The control has some property:
 - <code>State:</code> This property get or set the status of the control. Is possibile change this value from code and Property Box of control in the Appearance category<br>
 - <code>NoTextState:</code> This property display or hides the control status text. <br>
 
-<b>Basic Example of functionality:<b><br>
+<b>Basic Example of functionality:</b><br>
 In the Off Event
 <code> 
         PictureBox1.Image = My.Resources.spenta <br>
